@@ -1,3 +1,10 @@
+## FakeWebApp built on top of Medoo
+
+Rename `db.php.sample` to `db.php` and replace the relevant details. 
+
+For use with the sample mysql database [sakila](https://dev.mysql.com/doc/sakila/en/sakila-structure.html). 
+
+
 ![](https://raw.githubusercontent.com/catfan/Medoo/develop/src/medoo-logo.png)
 
 ## [Medoo](http://medoo.in)
