@@ -2,7 +2,7 @@
 <html>
 <head>
 	<title>Random Movies</title>
-	<link rel="stylesheet" href="https://cdn.jsdelivr.net/picnicss/6.1.4/picnic.min.css">
+	<link rel="stylesheet" href="picnic.min.css">
 </head>
 <body>
 <div class="flex">
