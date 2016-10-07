@@ -1,7 +1,7 @@
 <?php
 $database = new medoo([
     'database_type' => 'mysql',
-    'database_name' => 'name',
+    'database_name' => 'sakila',
     'server' => 'localhost',
     'username' => 'your_username',
     'password' => 'your_password',
