@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Random Actors</title>
+	<title>FakeWebApp - Random Actors</title>
 	<link rel="stylesheet" href="picnic.min.css">
 </head>
 <body>
